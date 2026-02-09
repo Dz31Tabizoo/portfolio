@@ -1,145 +1,83 @@
 <h1 align="center">Hi 👋, I'm ROUABAH Mohammed Rafik</h1>
-<h3 align="center">Junior Full-Stack .NET Developer | C# • ASP.NET Core • SQL Server</h3>
+<h3 align="center">Full-Stack Software Engineer | .NET Ecosystem & Database Specialist</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dz31Tabizoo&label=Profile%20views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-blue" />
-  <img src="https://img.shields.io/badge/Location-Chlef,%20Algeria-green" />
+  <img src="https://komarev.com/ghpvc/?username=Dz31Tabizoo&label=Profile%20views&color=1f7a8c&style=flat" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-053c5e" />
+  <img src="https://img.shields.io/badge/Location-Chlef,%20Algeria-1f7a8c" />
 </p>
 
 ---
 
 ## 🚀 Professional Summary
 
-Junior **.NET Developer** with a strong foundation in **C#, ASP.NET Core, SQL Server, and relational database design**.  
-I build **structured, maintainable applications** with a strong focus on **clean architecture, optimized databases, and real-world business logic**.
+Strategic **Full-Stack Software Engineer** specializing in architecting high-performance enterprise applications within the **.NET ecosystem**. I engineer scalable, mission-critical systems using **Clean Architecture (Onion)**, **ASP.NET Core Web APIs**, and **WPF**.
 
-With a background in **pharmacy management**, I bring attention to data accuracy, transactional consistency, and workflow reliability—critical skills for database-driven systems.
-
----
-
-## 🧠 Technical Foundation
-
-- Strong **Computer Science fundamentals**
-- **Data Structures & Algorithms** (Arrays, Linked Lists, Trees, Hash Tables)
-- **Object-Oriented Programming** (Encapsulation, Inheritance, Polymorphism, Abstraction)
-- Clean code, separation of concerns, and refactoring mindset
-
-🎓 Trained at **Programming Advices (Dr. AbuHadhud)**  
-Completed advanced software engineering tracks (Levels 1–5)
+With a deep mastery of **Database Engineering**, I leverage **Dapper ORM**, **Advanced T-SQL**, and **ACID Transactions** to ensure data integrity and system performance. I bridge the gap between complex business logic and robust software solutions.
 
 ---
 
-## 🗄️ Database & Relational Data Expertise
+## 🛠️ Technical Mastery
 
-- Designing **relational databases from scratch** based on business requirements
-- Creating **normalized schemas** (1NF, 2NF, 3NF) to reduce redundancy
-- Defining **primary keys, foreign keys, constraints, and indexes**
-- Writing **optimized T-SQL queries** for CRUD operations
-- Implementing **stored procedures** for:
-  - Business logic encapsulation
-  - Performance optimization
-  - Security and reusability
-- Applying **best practices**:
-  - Transactions and error handling
-  - Naming conventions
-  - Avoiding duplicated logic
-  - Data integrity and consistency
-- Experience translating **real-world workflows into database models**
+| Category | Technologies |
+| :--- | :--- |
+| **Backend & APIs** | C#, .NET 8/10, **ASP.NET Core Web API**, **Dapper ORM**, ADO.NET, RESTful Architecture |
+| **Database Engineering** | MS SQL Server, **Advanced T-SQL**, Complex Stored Procedures, Transactions, Indexing |
+| **Architecture & DevOps** | **Clean Architecture**, SOLID, Design Patterns, **CI/CD Workflows**, Git |
+| **Frontend & UI** | WPF (XAML), MVVM Pattern, HTML5, CSS3, JavaScript (ES6+) |
 
 ---
 
-## 🧩 Featured Projects
+## 🧩 Featured Enterprise Projects
 
-### 🚗 DVLD Management System (Desktop Application)
-**Technologies:** C#, WinForms, SQL Server  
-**Architecture:** 3-Tier (Presentation, Business Logic, Data Access)
+### 🏆 Club Management System (CMS)
+**Full-Stack:** .NET Core API | Clean Architecture | Dapper | WPF | SQL Server
+- Architected a commercial-grade **distributed ecosystem** for multi-sport club management.
+- Engineered a high-speed Data Access Layer by offloading complex business logic to **Optimized Stored Procedures**.
+- Guaranteed transactional integrity for financial modules using **Advanced SQL Transactions** and database-level validation logic.
+👉 [**View Repository**](https://github.com/Dz31Tabizoo/Club-Managment-System.git)
 
-- Designed the **entire database schema from zero**
-- Built a **fully normalized relational database**
-- Implemented tables, relationships, constraints, and indexes
-- Wrote **T-SQL stored procedures** for all core operations
-- Ensured data integrity through transactions and validation rules
-- Applied OOP and layered architecture to keep database logic clean and maintainable
 
-🔗 Repository: https://github.com/Dz31Tabizoo/Driving-License-Management.git
 
----
-
-## 🧠 Computer Science & Fundamentals Projects
-
-### 🏦 Bank System – Procedural Programming (Console)
-**Technologies:** C++
-
-- Implemented core banking operations using **procedural programming**
-- Focused on control flow, functions, input validation, and business rules
-- Managed accounts, deposits, withdrawals, and balance checks
-- Exposed limitations in scalability and maintainability
-
-🔗 Repository: *https://github.com/Dz31Tabizoo/Bank-project.git*
+### 🚗 DVLD: Licensing & Vehicle Department System
+**Full-Stack:** C# | 3-Tier Architecture | SQL Server
+- Designed a fully normalized relational schema (3NF) from the ground up.
+- Developed high-security database interfaces using **Parameterized Stored Procedures** to eliminate SQL injection risks.
+- Applied OOP and layered architecture to maintain strict separation of concerns.
+👉 [**View Repository**](https://github.com/Dz31Tabizoo/Driving-License-Management.git)
 
 ---
 
-### 🧱 Bank System – Object-Oriented Programming (Console)
-**Technologies:** C++
+## 🧠 Engineering Foundations (Comparative Design)
 
-- Designed **OOP-based domain models** (Account, Client, Transaction)
-- Applied **encapsulation and separation of responsibilities**
-- Improved extensibility, readability, and maintainability
-- Demonstrated advantages of OOP over procedural design
-
-🔗 Repository: *https://github.com/Dz31Tabizoo/Bank-Project-Practicing-OOP.git*
-
+### 🏦 Bank Management Core (OOP vs Procedural)
+**Language:** C++
+- Developed dual implementations to analyze performance and scalability trade-offs between paradigms.
+- Implemented core security protocols and encrypted file-based data persistence.
+👉 [**OOP Repo**](https://github.com/Dz31Tabizoo/Bank-Project-Practicing-OOP.git) | [**Procedural Repo**](https://github.com/Dz31Tabizoo/Bank-project.git)
 
 ---
 
-## 🔭 Currently Working On
-
-- **ASP.NET Core Web API**
-- **Entity Framework Core & LINQ**
-- Building a **Full-Stack .NET application**
-- Learning **JavaScript** and frontend fundamentals
-- Preparing for **Microsoft Azure Fundamentals**
+## 🔭 Currently Mastering & Implementing
+- **Modern CI/CD:** Automating deployment and testing pipelines with GitHub Actions.
+- **Advanced T-SQL:** Query optimization and high-concurrency database design.
+- **Microservices:** Exploring decoupled service architectures and message brokers.
+- **Cloud Foundations:** Preparing for **Microsoft Azure** certifications.
 
 ---
 
-## 🛠️ Languages & Tools
-
+## 📬 Connect with Me
 <p align="left">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white" />
-  <br/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
-  <br/>
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
+<a href="https://linkedin.com/in/rafik-rouabah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rafik-rouabah" height="30" width="40" /></a>
+<a href="mailto:rafikswatch4530s@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-rafikswatch4530s@gmail.com-1f7a8c?style=flat&logo=gmail" alt="Email" height="30" /></a>
 </p>
 
 ---
 
-## 💬 You Can Ask Me About
+## 📊 GitHub Metrics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dz31Tabizoo&show_icons=true&theme=algolia&count_private=true" alt="Rafik's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dz31Tabizoo&layout=compact&theme=algolia&hide=html,css" alt="Top Languages" />
+</p>
 
-- Relational database design & normalization
-- Writing optimized **T-SQL & stored procedures**
-- Designing schemas from business requirements
-- 3-Tier Architecture and separation of concerns
-- OOP best practices in C#
-- Transitioning from WinForms to ASP.NET Core
-
----
-
-## 🎯 What I’m Looking For
-
-- Junior .NET Developer role (Backend or Full-Stack)
-- Database-driven systems and real business logic
-- Mentorship-focused teams
-- Remote or relocation-friendly opportunities
-
----
-
-⭐️ *Focused on building reliable, database-driven .NET solutions.*
+⭐️ *Focused on building reliable, enterprise-grade .NET solutions.*
